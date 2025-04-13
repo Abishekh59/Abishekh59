@@ -41,5 +41,3 @@
 - Facebook: [Abishek Joshi](https://www.facebook.com/profile.php?id=100089929507384)
 
 ---
-
-_“Creating stories through code and frames.”_
