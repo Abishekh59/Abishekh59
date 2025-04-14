@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-uploaded-gif-link.gif](https://i.pinimg.com/originals/36/5e/68/365e6851d51814a090210f47911147ce.gif" width="250" />
+  <img src="https://i.pinimg.com/736x/d4/b9/f0/d4b9f06bf30b3f5a4efc56ce6f1d2164.jpg" width="250" />
 </p>
 
 ## Hi there 👋 I'm Abishekh Joshi
@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
   <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776AB" />
   <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1" />
 </p>
@@ -39,5 +40,3 @@
 
 - Instagram: [@abishek_joshi_](https://www.instagram.com/abishek_joshi_)
 - Facebook: [Abishek Joshi](https://www.facebook.com/profile.php?id=100089929507384)
-
----
