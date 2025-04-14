@@ -5,7 +5,7 @@
 ## Hi there 👋 I'm Abishekh Joshi
 
 🎓 I'm a Bachelor's student in Information Technology from Nepal  
-📸 Passionate about photography — I use my brother's camera gear to build my portfolio  
+📸 Passionate about photography...
 🌱 Currently learning and growing in both tech and creative fields  
 👀 Looking for part-time opportunities to support my education and family  
 📷 You can find my photography on Instagram: [@abishek_joshi_](https://www.instagram.com/abishek_joshi_)  
