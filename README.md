@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://pin.it/53o5Jkom6">
+  <img src="https://i.pinimg.com/originals/53/o5/53o5jkom6.jpg" alt="Photography by Abishekh Joshi" />
 </p>
 
 ## Hi there 👋 I'm Abishekh Joshi
 
 🎓 I'm a Bachelor's student in Information Technology from Nepal  
-📸 Passionate about photography...
+📸 Passionate about photography...  
 🌱 Currently learning and growing in both tech and creative fields  
 👀 Looking for part-time opportunities to support my education and family  
 📷 You can find my photography on Instagram: [@abishek_joshi_](https://www.instagram.com/abishek_joshi_)  
