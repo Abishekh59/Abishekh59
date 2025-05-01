@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pinterest.com/pin/815292338829414728/" alt="Photography by Abishekh Joshi" />
+  <img src="https://i.pinimg.com/736x/d4/b9/f0/d4b9f06bf30b3f5a4efc56ce6f1d2164.jpg" width="100%"  />
 </p>
 
 ## Hi there 👋 I'm Abishekh Joshi
