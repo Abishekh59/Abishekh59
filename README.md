@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/53/o5/53o5jkom6.jpg" alt="Photography by Abishekh Joshi" />
+  <img src="https://pin.it/41VNZWOzR" alt="Photography by Abishekh Joshi" />
 </p>
 
 ## Hi there 👋 I'm Abishekh Joshi
