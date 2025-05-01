@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pinterest.com/pin/815292338829734392//>
+  <img src="https://pin.it/53o5Jkom6">
 </p>
 
 ## Hi there 👋 I'm Abishekh Joshi
