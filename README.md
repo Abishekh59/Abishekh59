@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/d1/17/ba/d117ba1fdab6c195b7842008e527f19d.jpg" width="80%" height="40%" />
+  <img src="https://i.pinimg.com/736x/d1/17/ba/d117ba1fdab6c195b7842008e527f19d.jpg" width="400px" height="auto" />
 </p>
 
 ## Hi there 👋 I'm Abishekh Joshi
